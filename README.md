@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shadrach198
-- 👀 I’m interested in ...front end
-- 🌱 I’m currently learning ... on css html and javascript 
+- 👀 I do ...webdev
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... website developing and related
 - 📫 How to reach me ... shaddiemello@gmail.com or WhatsApp_ 0538248466
 - 😄 Pronouns: ... He
